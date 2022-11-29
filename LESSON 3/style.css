@@ -1,0 +1,36 @@
+
+
+  a:link {
+    background-color: #19d31f;
+    color: white;
+    padding: 15px 25px;
+    
+    text-decoration: none;
+    display: block;
+    
+  }
+  
+  a:visited {
+    color: rgb(43, 28, 211);
+    background-color: purple;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+
+
+  }
+
+
+
+
+
